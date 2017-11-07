@@ -2,9 +2,6 @@
 # Nim game
 # Player vs computer.
 
-# leave user with 5 balls
-# leave user with # of balls that is multiple of 5
-
 import random
 import time
 
